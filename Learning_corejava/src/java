@@ -1,0 +1,48 @@
+Datatypes : 
+
+byte	1 byte  2^7-1 to -2^7 = 127 to -128
+short	2 byte  2^15-1 to -2^15 = 32767 to -32768
+int		4 byte  
+long	8 byte
+
+float	4 byte
+double 	8 byte8
+ 
+char	2 byte
+boolean	1 bit
+
+datatype casting
+convert one type of data into another type
+
+type of cating
+implicite or widninig
+explicite or nerrowing
+
+*****************************
+Oprators : 
+Unary 
+++pre, --pre, post++, post--
+
+Arithmatic : 
++,-,*,/,%
+
+Relational : 
+>,<,>=,<=,!=,==,
+
+Logical : 
+&&, ||
+
+Turnary : 
+condition ? true : false
+**************************************************************
+condtional statment
+-if
+-if-else
+-switch-case
+
+looping statements
+for
+while
+dowhile
+
+
