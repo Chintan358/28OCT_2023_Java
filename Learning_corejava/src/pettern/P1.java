@@ -10,15 +10,16 @@ public class P1 {
 //		*****
 //		*****
 		
-		int lines = 5;
-		for(int j=1;j<=lines;j++)
-		{
-			for(int i=1;i<=lines;i++)
-			{
-				System.out.print("*");
-			}
-			System.out.println();
-		}
+//		int lines = 5;
+//		for(int j=1;j<=lines;j++)
+//		{
+//			for(int i=1;i<=lines;i++)
+//			{
+//				System.out.print("*");
+//			}
+//			System.out.println();
+//		}
+		
 		
 	}
 }
