@@ -11,18 +11,26 @@ class Pen
 		System.out.println(price+" "+color+" "+company);
 	}
 	
+	public static void display()
+	{
+		
+	}
+	
 }
 
 public class O001_FirstDemo {
 	public static void main(String[] args) {
 		
+		Pen.price = 100;
+		
 		Pen p1 = new Pen();
-		p1.price=50;
 		p1.toWrite();
 		
 		Pen p2 = new Pen();
 		p2.toWrite();
 		
+		
+		Pen.display();
 		
 	}
 }
